@@ -1,0 +1,11 @@
+C:\Users\acaua\source\repos\SudokuMaster\bin\Debug\netcoreapp2.2\SudokuMaster.deps.json
+C:\Users\acaua\source\repos\SudokuMaster\bin\Debug\netcoreapp2.2\SudokuMaster.runtimeconfig.json
+C:\Users\acaua\source\repos\SudokuMaster\bin\Debug\netcoreapp2.2\SudokuMaster.runtimeconfig.dev.json
+C:\Users\acaua\source\repos\SudokuMaster\bin\Debug\netcoreapp2.2\SudokuMaster.dll
+C:\Users\acaua\source\repos\SudokuMaster\bin\Debug\netcoreapp2.2\SudokuMaster.pdb
+C:\Users\acaua\source\repos\SudokuMaster\obj\Debug\netcoreapp2.2\SudokuMaster.csprojResolveAssemblyReference.cache
+C:\Users\acaua\source\repos\SudokuMaster\obj\Debug\netcoreapp2.2\SudokuMaster.csproj.CoreCompileInputs.cache
+C:\Users\acaua\source\repos\SudokuMaster\obj\Debug\netcoreapp2.2\SudokuMaster.AssemblyInfoInputs.cache
+C:\Users\acaua\source\repos\SudokuMaster\obj\Debug\netcoreapp2.2\SudokuMaster.AssemblyInfo.cs
+C:\Users\acaua\source\repos\SudokuMaster\obj\Debug\netcoreapp2.2\SudokuMaster.dll
+C:\Users\acaua\source\repos\SudokuMaster\obj\Debug\netcoreapp2.2\SudokuMaster.pdb
